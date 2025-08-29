@@ -52,7 +52,7 @@ const Header = () => {
             ))}
             {/* Primary CTA button */}
             <a
-              href="https://wa.me/2349161791708"
+              href="https://wa.me/2349161836523"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-4 bg-gradient-to-r from-blue-600 to-teal-600 text-white px-6 py-2.5 rounded-lg font-semibold hover:from-blue-700 hover:to-teal-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
@@ -90,7 +90,7 @@ const Header = () => {
               ))}
               {/* Mobile CTA button */}
               <a
-                href="https://wa.me/2349161791708"
+                href="https://wa.me/2349161836523"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mx-4 mt-4 bg-gradient-to-r from-blue-600 to-teal-600 text-white px-6 py-3 rounded-lg font-semibold text-center hover:from-blue-700 hover:to-teal-700 transition-all duration-200"

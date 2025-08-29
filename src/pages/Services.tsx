@@ -134,7 +134,7 @@ const Services = () => {
             </p>
             {/* WhatsApp booking CTA */}
             <a
-              href="https://wa.me/2349161791708"
+              href="https://wa.me/2349161836523"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center bg-gradient-to-r from-blue-600 to-teal-600 text-white px-8 py-4 rounded-xl text-lg font-semibold hover:from-blue-700 hover:to-teal-700 transition-all duration-200 shadow-lg hover:shadow-xl"
@@ -295,7 +295,7 @@ const Services = () => {
                     </p>
                     
                     <a
-                      href="https://wa.me/2349161791708"
+                      href="https://wa.me/2349161836523"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center text-blue-600 font-semibold hover:text-blue-700 transition-colors"
@@ -345,7 +345,7 @@ const Services = () => {
                 <ExternalLink size={20} className="ml-2" />
               </a>
               <a
-                href="https://wa.me/2349161791708"
+                href="https://wa.me/2349161836523"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center border-2 border-blue-600 text-blue-600 px-8 py-4 rounded-xl text-lg font-semibold hover:bg-blue-600 hover:text-white transition-all duration-200"
@@ -369,7 +369,7 @@ const Services = () => {
             Our medical experts are ready to assist you.
           </p>
           <a
-            href="https://wa.me/2349161791708"
+            href="https://wa.me/2349161836523"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-xl text-lg font-semibold transition-all duration-200 shadow-lg hover:shadow-xl"

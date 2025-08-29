@@ -104,7 +104,7 @@ const Home = () => {
               {/* Primary action buttons */}
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                 <a
-                  href="https://wa.me/2349161791708"
+                  href="https://wa.me/2349161836523"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center bg-gradient-to-r from-blue-600 to-teal-600 text-white px-8 py-4 rounded-xl text-lg font-semibold hover:from-blue-700 hover:to-teal-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
@@ -338,7 +338,7 @@ const Home = () => {
                 for your loved ones while you're at work.
               </p>
               <a
-                href="https://wa.me/2349161791708"
+                href="https://wa.me/2349161836523"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center bg-gradient-to-r from-blue-600 to-teal-600 text-white px-8 py-4 rounded-xl text-lg font-semibold hover:from-blue-700 hover:to-teal-700 transition-all duration-200 shadow-lg hover:shadow-xl"
@@ -397,7 +397,7 @@ const Home = () => {
           {/* WhatsApp CTA */}
           <div className="text-center">
             <a
-              href="https://wa.me/2349161791708"
+              href="https://wa.me/2349161836523"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-xl text-lg font-semibold transition-all duration-200 shadow-lg hover:shadow-xl"

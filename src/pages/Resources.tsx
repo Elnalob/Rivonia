@@ -327,7 +327,7 @@ const Resources = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://wa.me/2349161791708"
+              href="https://wa.me/2349161836523"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-xl text-lg font-semibold transition-all duration-200 shadow-lg hover:shadow-xl"
