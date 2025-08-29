@@ -23,28 +23,28 @@ const Services = () => {
       icon: Monitor,
       title: "Sleep Study",
       description: "Rivonia Diagnostics has established a full sleep laboratory at Oluyole Extension, Ibadan, where the causes of sleep disorders are diagnosed and monitored",
-      image: "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "public/rivonia-sleep-2_orig.webp",
       features: ["Comprehensive Sleep Analysis", "Sleep Disorder Diagnosis", "CPAP Machine Sales"]
     },
     {
       icon: Heart,
       title: "Digital Ultrasound",
       description: "Experience live image scan on 2D, 3D, and 4D image. Our 3/4D Ultrasound machine is premium technology commonly used in Obstetrics to provide real-time dimensional images for the Fetus.",
-      image: "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "public/heart_ultrasound.webp",
       features: ["2D/3D/4D Imaging", "Obstetric Ultrasound", "High-end Multi-Slice Technology", "Detailed Analysis & Accurate Results"]
     },
     {
       icon: Activity,
       title: "Echocardiography (ECHO)",
       description: "Our program checks how your heart's chambers and valves are pumping blood through your heart.",
-      image: "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "public/Echo.webp",
       features: ["Heart Chamber Analysis", "Valve Function Assessment", "Blood Flow Evaluation"]
     },
     {
       icon: Stethoscope,
       title: "Therapy Services",
       description: "Quality care from qualified experts providing comprehensive therapeutic interventions.",
-      image: "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "public/elder.webp",
       features: ["Physical Therapy", "Rehabilitation Services", "Recovery Programs"]
     }
   ];
@@ -109,13 +109,13 @@ const Services = () => {
       icon: Home,
       title: "Home Care Service",
       description: "Rivonia Diagnostics and Sleep Center Home Care Services has been specifically designed to address the needs of the elderly and chronically ill, who often require compassionate health care at home.",
-      image: "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "public/Home-care.webp"
     },
     {
       icon: Truck,
       title: "Ambulance Services", 
       description: "We provide well equipped commercial ambulance services with Paramedics that care about patients' well-being when transporting and moving critically ill patients to the closest and most appropriate hospital.",
-      image: "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "public/Ambulance.webp"
     }
   ];
 

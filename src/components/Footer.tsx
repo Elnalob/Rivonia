@@ -56,10 +56,8 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Phone size={20} className="text-blue-400 mt-1 flex-shrink-0" />
                 <div className="text-gray-300">
-                  <p>+234-916-1791-708</p>
                   <p>+234-916-1836-523</p>
                   <p>+234-904-6440-966</p>
-                  <p>+234-708-7855-848</p>
                 </div>
               </div>
               
@@ -67,7 +65,6 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Mail size={20} className="text-blue-400 mt-1 flex-shrink-0" />
                 <div className="text-gray-300">
-                  <p>rivoniahealth@gmail.com</p>
                   <p>rivoniadiagnostics@gmail.com</p>
                 </div>
               </div>
