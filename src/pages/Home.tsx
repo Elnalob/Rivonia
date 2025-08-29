@@ -72,12 +72,7 @@ const Home = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             {/* Left side - Main content and CTA */}
             <div className="text-center lg:text-left">
-              <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-                Improving Life
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-teal-600"> Together</span>
-              </h1>
-              
-              {/* Google 5-star rating display */}
+                            {/* Google 5-star rating display */}
               <div className="flex items-center justify-center lg:justify-start mb-6 space-x-3">
                 <div className="flex items-center space-x-1">
                   {[...Array(5)].map((_, i) => (
@@ -95,6 +90,12 @@ const Home = () => {
                 </div>
               </div>
               
+              <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+                Improving Life
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-teal-600"> Together</span>
+              </h1>
+              
+
               <p className="text-xl lg:text-2xl text-gray-600 mb-8 leading-relaxed">
                 Rivonia Diagnostics and Sleep Centre provides world-class medical 
                 diagnostic services with compassionate care in Ibadan and its environs.
