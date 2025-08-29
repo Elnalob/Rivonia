@@ -22,25 +22,25 @@ const Home = () => {
       icon: Monitor,
       title: "Sleep Studies",
       description: "Full sleep laboratory for diagnosing and monitoring sleep disorders",
-      image: "https://images.pexels.com/photos/3768131/pexels-photo-3768131.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "public/patient_sleeping.webp"
     },
     {
       icon: Heart,
       title: "Digital Ultrasound",
       description: "Experience live 2D, 3D, and 4D imaging with premium technology",
-      image: "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "public/heart_ultrasound.webp"
     },
     {
       icon: Microscope,
       title: "Laboratory Services",
       description: "Well-equipped lab with experts handling comprehensive testing",
-      image: "https://images.pexels.com/photos/3786126/pexels-photo-3786126.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "public/timothy-mcb.webp"
     },
     {
       icon: Stethoscope,
       title: "Therapy Services",
       description: "Quality care from qualified medical experts",
-      image: "https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=800"
+      image: "public/Consultation.webp"
     }
   ];
 
@@ -125,7 +125,7 @@ const Home = () => {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                  src="public/Consultation.webp"
                   alt="Medical professionals at work"
                   className="w-full h-96 lg:h-[500px] object-cover"
                 />
@@ -240,7 +240,7 @@ const Home = () => {
             {/* Company image */}
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="public/rivonia_entrance.webp"
                 alt="Medical facility"
                 className="rounded-2xl shadow-xl w-full h-96 object-cover"
               />
@@ -319,7 +319,7 @@ const Home = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/4386467/pexels-photo-4386467.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="public/elder.webp"
                 alt="Home care service"
                 className="rounded-2xl shadow-xl w-full h-96 object-cover"
               />
