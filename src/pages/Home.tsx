@@ -22,25 +22,25 @@ const Home = () => {
       icon: Monitor,
       title: "Sleep Studies",
       description: "Full sleep laboratory for diagnosing and monitoring sleep disorders",
-      image: "public/patient_sleeping.webp"
+      image: " /images//patient_sleeping.webp"
     },
     {
       icon: Heart,
       title: "Digital Ultrasound",
       description: "Experience live 2D, 3D, and 4D imaging with premium technology",
-      image: "public/heart_ultrasound.webp"
+      image: " /images//heart_ultrasound.webp"
     },
     {
       icon: Microscope,
       title: "Laboratory Services",
       description: "Well-equipped lab with experts handling comprehensive testing",
-      image: "public/timothy-mcb.webp"
+      image: " /images//timothy-mcb.webp"
     },
     {
       icon: Stethoscope,
       title: "Therapy Services",
       description: "Quality care from qualified medical experts",
-      image: "public/Consultation.webp"
+      image: " /images//Consultation.webp"
     }
   ];
 
@@ -125,7 +125,7 @@ const Home = () => {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="public/Consultation.webp"
+                  src=" /images/Consultation.webp"
                   alt="Medical professionals at work"
                   className="w-full h-96 lg:h-[500px] object-cover"
                 />
@@ -240,7 +240,7 @@ const Home = () => {
             {/* Company image */}
             <div className="relative">
               <img
-                src="public/rivonia_entrance.webp"
+                src=" /images//rivonia_entrance.webp"
                 alt="Medical facility"
                 className="rounded-2xl shadow-xl w-full h-96 object-cover"
               />
@@ -319,7 +319,7 @@ const Home = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="relative">
               <img
-                src="public/elder.webp"
+                src=" /images//elder.webp"
                 alt="Home care service"
                 className="rounded-2xl shadow-xl w-full h-96 object-cover"
               />

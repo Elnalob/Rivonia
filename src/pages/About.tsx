@@ -172,7 +172,7 @@ const About = () => {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="public\rivonia_entrance.webp"
+                  src=" /images/\rivonia_entrance.webp"
                   alt="Medical facility"
                   className="w-full h-96 object-cover"
                 />
